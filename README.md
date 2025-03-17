@@ -1,5 +1,4 @@
 # 🎁 Amigo Secreto
-
 Este proyecto es una aplicación web sencilla para organizar un sorteo de Amigo Secreto. Permite agregar nombres de pamigos, eliminarlos si es necesario, y realizar un sorteo aleatorio para seleccionar alx Amigo Secreto. 🎉
 
 ## 🚀 Características
@@ -9,6 +8,9 @@ Este proyecto es una aplicación web sencilla para organizar un sorteo de Amigo 
 - Seleccionar aleatoriamente un amigo secreto sin repetir.
 - Mostrar el resultado con una imagen.
 - Opción para reiniciar el juego.
+
+## ## 🎥 Vista previa  
+![Demostración del juego](assets/amigosecreto.gif)
 
 ## 📋 Requisitos
 Solo necesitas un navegador web para ejecutar el proyecto.
@@ -21,6 +23,6 @@ Solo necesitas un navegador web para ejecutar el proyecto.
 5. Usa el botón **Reiniciar** para volver a jugar con los nombres restantes.
 
 ## 🛠️ Tecnologías utilizadas
-- HTML
-- CSS
-- JavaScript
+- HTML.
+- CSS.
+- JavasScritp.
